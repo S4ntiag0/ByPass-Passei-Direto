@@ -12,6 +12,9 @@ No canto superior direito, havera um input ```Modo desenvolvedor``` ative-o, ele
 
 ![image](https://github.com/S4ntiag0/ByPass-Passei-Direto/assets/91894281/58224a3b-a729-45d5-960b-3caa108eb253)
 
+Ao clicar no modo desenvolvedor aparecera uma nova tab com varias funções sendo uma delas ```Carregar sem Compactação```
+
+![image](https://github.com/S4ntiag0/ByPass-Passei-Direto/assets/91894281/ebd84934-a467-463d-91f3-f35f04b27c5f)
 
 ## Autores
 
