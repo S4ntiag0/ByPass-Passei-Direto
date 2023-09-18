@@ -16,10 +16,9 @@ Ao clicar no modo desenvolvedor aparecera uma nova tab com varias funções send
 
 ![image](https://github.com/S4ntiag0/ByPass-Passei-Direto/assets/91894281/ebd84934-a467-463d-91f3-f35f04b27c5f)
 
-Em fim a exnteção sera reconhecida pelo google e estara funcionando perfeitamente basta acessar seus livros / exercicios do passei direto sem aquele blur!
+Em fim a extenção sera reconhecida pelo google e estara funcionando perfeitamente basta acessar seus livros / exercicios do passei direto sem aquele blur!
 
 ![image](https://github.com/S4ntiag0/ByPass-Passei-Direto/assets/91894281/e2bbd9df-874e-426b-a88e-e6e589e77484)
-
 
 ## Autores
 
