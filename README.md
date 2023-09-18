@@ -1,8 +1,8 @@
-# ByPass Passei Direto
+# 🚀 ByPass Passei Direto
 
 Coloque todos os arquivos dentro de uma pasta.
 
-# Instalando🔧
+# 🔧 Instalando
 
 Apos vá ao gerenciador de extenção do Chrome.
 
