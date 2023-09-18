@@ -1,3 +1,5 @@
+# ByPass Passei Direto
+
 Coloque todos os arquivos dentro de uma pasta!\n
 Apos va no gerenciador de extenção do Chrome
 
