@@ -1,6 +1,6 @@
 # 🚀 ByPass Passei Direto
 
-Coloque todos estes arquivo content.js, manifest.json e popup.js dentro de uma pasta.
+Coloque todos estes arquivo ```content.js, manifest.json e popup.js``` dentro de uma pasta.
 
 ### 🔧 Instalando
 
