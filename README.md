@@ -6,4 +6,4 @@ Apos va no gerenciador de extenção do Chrome
 
 ## Autores
 
-- [@santiago.andrade.trevisol](https://github.com/S4ntiag0)
+- [@Santiago](https://github.com/S4ntiag0)
