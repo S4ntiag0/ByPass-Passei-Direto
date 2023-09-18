@@ -6,4 +6,4 @@ Apos va no gerenciador de extenção do Chrome
 
 ## Autores
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@santiago.andrade.trevisol](https://github.com/S4ntiag0)
