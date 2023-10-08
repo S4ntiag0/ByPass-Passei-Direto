@@ -2,7 +2,7 @@
 
 Lembre-se esteja deslogado! Do contrario nao funcionara.
 
-Baixe o prjeto e extraia em sua area de trabalho.
+Baixe o projeto e extraia-lo em sua area de trabalho.
 
 ### 🔧 Instalando
 
