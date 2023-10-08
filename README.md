@@ -2,7 +2,7 @@
 
 Lembre-se esteja deslogado! Do contrario nao funcionara.
 
-Coloque todos estes arquivo ```content.js, manifest.json e popup.js``` dentro de uma pasta.
+Baixe o prjeto e extraia em sua area de trabalho.
 
 ### 🔧 Instalando
 
